@@ -1,6 +1,6 @@
 {
-  "name": "cpsi-london-website",
-  "version": "0.3.0",
+  "name": "md-next-folio",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

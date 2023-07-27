@@ -28,7 +28,7 @@ const projects = [
   },  
   {
     name: "The Pressure App",
-    description: "It's 30 episodes set among a group of teenagers in London deal with peer pressure. App users are awarded XP points in each episode based on how their interactions affect each characters storyline.",
+    description: "It's 30 episodes are set among a group of teenagers in London dealing with peer pressure. App users are awarded XP points in each episode based on how their interactions affect each characters storyline.",
     image: "/platoio.png",
     github: " ",
     link: "2",
