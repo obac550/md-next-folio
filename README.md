@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # TailwindCSS and Next.js Portfolio
+=======
+# Tailwind CSS and Next.js Portfolio
+>>>>>>> 2ddbb53c75e0aba9d2032f8f77e222db0f2f0a41
 
 This is a template for creating a portfolio with Tailwind CSS and Next.js.
 
