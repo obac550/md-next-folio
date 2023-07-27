@@ -43,11 +43,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-<<<<<<< HEAD
               I left to pursue a <span className="font-bold text-teal-500">Master&#39;s</span> in &#39;Interactive
-=======
-              I left to pursue a <span className="font-bold text-teal-500">Master&#39;s Degree</span> in &#39;Interactive
->>>>>>> 2ddbb53c75e0aba9d2032f8f77e222db0f2f0a41
               Media&#39; the <i>Father</i> of the <span className="font-bold text-teal-500">Social Media</span> influencing many young lives today.<br></br>
             </p>
             <br />
@@ -59,7 +55,7 @@ const AboutSection = () => {
             <br />
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
               {" "}
-             The Key Is... Staying Inspired!
+             The Key... Staying Inspired!
             </h1> 
             </p>
             <p>
