@@ -43,7 +43,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I left to pursue a <span className="font-bold text-teal-500">Master&#39;s Degree</span> in &#39;Interactive
+              I left to pursue a <span className="font-bold text-teal-500">Master&#39;s</span> in &#39;Interactive
               Media&#39; the <i>Father</i> of the <span className="font-bold text-teal-500">Social Media</span> influencing many young lives today.<br></br>
             </p>
             <br />
