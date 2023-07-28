@@ -1,9 +1,5 @@
 "use client"
 import "./globals.css"
-<<<<<<< HEAD
-import 'tailwindcss/tailwind.css'
-=======
->>>>>>> 2ddbb53c75e0aba9d2032f8f77e222db0f2f0a41
 import Navbar from "@/components/Navbar"
 import Footer from "@/components/Footer"
 import CookieConsent from "react-cookie-consent"

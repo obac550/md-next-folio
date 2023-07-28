@@ -1,10 +1,14 @@
-<<<<<<< HEAD
-# TailwindCSS and Next.js Portfolio
-=======
-# Tailwind CSS and Next.js Portfolio
->>>>>>> 2ddbb53c75e0aba9d2032f8f77e222db0f2f0a41
+# TailwindCSS,MD and Next.js Portfolio
 
-This is a template for creating a portfolio with Tailwind CSS and Next.js.
+This is a template for creating a portfolio with Tailwind CSS and Next.js forked from `https://github.com/hqasmei/tailwindcss-and-nextjs-portfolio`
+
+v 1.0.0
+
+- With an added MD Blog
+
+- A GDPR popup
+
+- MultidimensionalGallArray for projects section
 
 ![Portfolio Demo](demo/demo.gif)
 
