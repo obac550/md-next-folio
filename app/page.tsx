@@ -16,7 +16,7 @@ export const metadata = {
     template: '%s',
   },
   description: 'This site is a gateway to a network built to educate and empower in a secure network built on cultural connectivity',
-  keywords: ['CPSi.London', 'Black History of London', 'London Law', 'EduTech', 'web3', 'Black history app', 'Black London', 'Crown Prosecution Service', 'The Black Gate', 'Centreprise', 'Centerprise Trust', 'Centerpride', 'african history', 'Metaverse', 'miramid','The regiments of steel', 'boy better know better', 'Fair Education Alliance', 'kingsland high road', 'Lord of greater London']
+  keywords: ['CPSi.London', 'Black History of London', 'London Law', 'EduTech', 'web3', 'Centerpride', 'Black history app', 'Black London', 'Crown Prosecution Service', 'The Black Gate', 'Centreprise', 'Centerprise Trust', 'Centerpride', 'african history', 'Metaverse', 'miramid','The regiments of steel', 'boy better know better', 'Fair Education Alliance', 'kingsland high road', 'Lord of greater London']
 
 }
 

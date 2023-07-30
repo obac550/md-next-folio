@@ -10,21 +10,21 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Tech Mentoring Young People in Web 3.0 @EasyA_app Hackathon",
+    name: "Tech Mentoring Young People in Web3.0 @EasyA_app Hackathon",
     description: "The young members of team CPSi planned and delivered a pitch @EasyA_app hackathon among some of blockchains brightest! Built on @Polkadot and the @AstarNetwork. Superb job. Well done all!",
     image: "/familyphotos.png",
     github: " ",
     link: "0",
-    hashtags: "#cpsiLondon #web3 #cpsi #techmentoring #polkadot #astarnetwork #easyaapp #hackathon"
+    hashtags: "#cpsiLondon #web3 #metaverse #techmentoring #polkadot #astarnetwork #easyaapp #blockchain"
   },
      {
-    name: "Coming soon... Centerpride",
+    name: "Coming Soon... Centerpride",
     description:
       "From the ashes of Centerprise in London's Kingsland High Road rises Centerpride in the Web3 Metaverse! Where young people can interact, grow and thrive culturally in a secure trusted learning environment.",
     image: "/thankfulthoughts.png",
     github: " ",
     link: "12",
-    hashtags: "#web3 #ai #metaverse #edutech #secure #trusted #cultural #learning #centerprise"
+    hashtags: "#cpsiLondon #web3 #ai #metaverse #edutech #secure #trusted #culturallearning #centerprise"
   },  
   {
     name: "The Pressure App",

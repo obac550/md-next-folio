@@ -13,7 +13,7 @@ const projects = [
     description: "Rodocodo founded by Chi Dire has been shortlisted as a finalist in the Fair Education Alliance Awards. Rodocodo helps primary teachers introduce coding skills to classes in a fun, easy 'no-code' way.",
     image: "/familyphotos.png",
     github: " ",
-    hashtags: "#FairEducationAlliance #edutech #teachertools #smartapp",
+    hashtags: "#FairEducationAlliance #edutech #teachertools #smartapp #nocode",
     link: "Outstanding work Chi and a good day to you Sir",
   },
    /*   {

@@ -39,7 +39,7 @@ const HeroSection = () => {
         <div className="md:mt-2 md:w-3/5">
           <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-6xl">Hiya, I&#39;m CPSi</h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-          I use my experience in{" "}<span className="font-semibold text-teal-600">Law, Education and Tech</span> to create digital learning experiences that enrich the lives of young Londoners.</p>
+          Using my experience in{" "}<span className="font-semibold text-teal-600">Law, Education and Tech</span> I create digital learning experiences that enrich the lives of young Londoners.</p>
           <div className="flex flex-row md:justify-between justify-center md:w-[230px] w-full">
           <Link
             to="projects"
