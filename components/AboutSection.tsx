@@ -7,18 +7,13 @@ const skills = [
   { skill: "Mentor" },
   { skill: "Writer" },
   { skill: "Author" },
-  { skill: "Web3" },
-  { skill: "Open Zeppelin" },
-  { skill: "Solidity" },
-  { skill: "Blockchain" },
-  { skill: "Headless CMS" },
-  { skill: "JavaScript" },
-  { skill: "React.js" },
-  { skill: "Next.js" },
-  { skill: "GraphQL" },
-  { skill: "UX and UI Design" },
-  { skill: "GitHub" },
-  { skill: "API's" },
+  { skill: "Solidity Smart Contracts" },
+  { skill: "NFT" },
+  { skill: "Asset Digitisation" },
+  { skill: "Web3.js" },
+  { skill: "X-Chain" },
+  { skill: "Full Stack" },
+  { skill: "Headless API's" },
 ]
 
 const AboutSection = () => {
@@ -39,7 +34,7 @@ const AboutSection = () => {
             </h1> 
             <p>
               My career began working for the <span className="font-bold text-teal-500">
-                Crown Prosecution Service</span> processing warrants of London&#39;s Crown and Magistrates courts.<br></br>
+                Crown Prosecution Service</span> processing warrants of London&#39;s Crown & Magistrates courts.<br></br>
             </p>
             <br />
             <p>
@@ -50,7 +45,6 @@ const AboutSection = () => {
             <p> 
             After an I.T career in the <span className="font-bold text-teal-500"> City of London </span> I worked providing<span className="font-bold text-teal-500"> Web Solutions</span> and <span className="font-bold text-teal-500"> Online Services </span>to organisations in the youth, education and charity sectors.
             </p>
-            <br />
             <p>
             <br />
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
@@ -59,7 +53,7 @@ const AboutSection = () => {
             </h1> 
             </p>
             <p>
-            With a passion for tech and desire to always <span className="font-bold text-teal-500">Push the Limits of What&#39;s Possible.</span>{" "} The objective? Providing magical experiences that increase inclusivity and opportunities among London&#39;s NEET&#39;s and Generation Z&#39;s.
+            With a passion for tech and desire to always <span className="font-bold text-teal-500">push the limits of what&#39;s possible!</span>{" "} The objective? Providing magical experiences that increase inclusivity and opportunities among London&#39;s NEET&#39;s and Generation Z&#39;s.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
