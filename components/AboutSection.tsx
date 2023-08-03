@@ -34,7 +34,7 @@ const AboutSection = () => {
             </h1> 
             <p>
               My career began working for the <span className="font-bold text-teal-500">
-                Crown Prosecution Service</span> processing warrants of London&#39;s Crown & Magistrates courts.<br></br>
+                Crown Prosecution Service</span> processing London&#39;s Crown and Magistrates Courts warrants.<br></br>
             </p>
             <br />
             <p>
